@@ -1,0 +1,14 @@
+div, h1, p, header, section, footer, main{
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    padding: 30px;
+}
+a, span {
+    display: inline;
+    /* width: 100px;
+    height: 100px; */
+    margin: 30px;
+    padding: 30px;
+}
